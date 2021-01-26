@@ -72,7 +72,7 @@ function addEngineer() {
         addTeammates();
     })
 }
-addEngineer();
+// addEngineer();
 
 
 function addIntern() {
@@ -104,7 +104,7 @@ function addIntern() {
         addTeammates();
     })
 }
-addIntern();
+// addIntern();
 
 
 function addTeammates() {
@@ -112,7 +112,7 @@ function addTeammates() {
         {
             type: 'list',
             name: 'choose',
-            massage: 'Which type of members would you like to add?',
+            message: 'Which type of members would you like to add?',
             choices: ['Engineer', 'Intern', 'No more members!']
         }
     ]).then(answers => {
@@ -127,7 +127,7 @@ function addTeammates() {
         }
     })
 }
-addTeammates();
+// addTeammates();
 
 
 
