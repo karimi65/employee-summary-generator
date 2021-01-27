@@ -3,8 +3,11 @@ body {
 
     background-size: cover;
     background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
 
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
 
 .jumbotron:not(h1) {
  background-color: #12cce1;
