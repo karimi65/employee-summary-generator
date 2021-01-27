@@ -72,7 +72,7 @@ function addEngineer() {
         addTeammates();
     })
 }
-// addEngineer();
+
 
 
 function addIntern() {
@@ -104,7 +104,7 @@ function addIntern() {
         addTeammates();
     })
 }
-// addIntern();
+
 
 
 function addTeammates() {
@@ -127,7 +127,7 @@ function addTeammates() {
         }
     })
 }
-// addTeammates();
+
 
 
 

@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLj8nBx8rmJDWBKss6z9nm4a23aNiTJirbww&usqp=CAU");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.jumbotron:not(h1) {
+ background-color: #12cce1;
+ opacity: 0.4;
+ color: white;   
+}
+
+.card {
+    box-shadow: 0 0 10px 2px;
+}
+
+.card-header {
+    background-color: #00B187;
+}
+
+.card-body {
+    background-color: #E0E0E0;   
+}
+
+.list-group-item {
+    background-color: #ECF1F5;
+}
